@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![banner](images/github-header-banner.png)
 ###
-![banner](https://tenor.com/id/view/work-office-computer-penguin-job-gif-10013904041284194281)
+![Demo GIF](https://i.gifer.com/6mz.gif)
+
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=dart,kotlin,androidstudio,vscode,flutter&theme=light)](https://skillicons.dev)
