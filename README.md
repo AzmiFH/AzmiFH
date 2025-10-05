@@ -1,8 +1,5 @@
 ## Hi there 👋
 ![banner](images/github-header-banner.png)
-###
-![Demo GIF](https://i.gifer.com/6mz.gif)
-
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=dart,kotlin,androidstudio,vscode,flutter&theme=light)](https://skillicons.dev)
@@ -22,4 +19,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AzmiFH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img align="right" height="150" src="https://i.gifer.com/6mz.gif"  />
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
