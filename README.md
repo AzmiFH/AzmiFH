@@ -2,8 +2,12 @@
 ![banner](images/github-header-banner.png)
 
 #### Skills
+
+<img align="right" height="150" src="https://i.gifer.com/6mz.gif" alt="Coding gif"/>
+
 [![My Skills](https://skillicons.dev/icons?i=dart,kotlin,androidstudio,vscode,flutter&theme=light)](https://skillicons.dev)
 ![My Skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 
 
